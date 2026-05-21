@@ -292,7 +292,7 @@ Contributions are welcome! Feel free to fork this repository and submit pull req
 
 # 👩‍💻 Author
 
-**Gayathri Reddy**
+**Chowdri Furkhan**
 
-- GitHub: https://github.com/Gayathri-Reddy874
+- GitHub: https://github.com/Chowdri-Furkhan07
 ```
