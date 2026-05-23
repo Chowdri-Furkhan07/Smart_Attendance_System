@@ -86,7 +86,7 @@ Smart-Attendance-System/
 
 ```bash
 git clone https://github.com/Gayathri-Reddy874/smart_attendance_system.git
-cd Smart-Attendance-System
+cd smart_attendance_system
 ```
 
 ---
