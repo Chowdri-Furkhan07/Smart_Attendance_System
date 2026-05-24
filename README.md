@@ -85,7 +85,7 @@ Smart-Attendance-System/
 ## 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/Gayathri-Reddy874/smart_attendance_system.git
+git clone https://github.com/Chowdri-Furkhan07/AI-Attendance-Management-System.git
 cd smart_attendance_system
 ```
 
